@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\MySQLHomework\Student.Model\bin\Debug\Student.Model.dll
+C:\Users\DELL\source\repos\MySQLHomework\Student.Model\bin\Debug\Student.Model.pdb
+C:\Users\DELL\source\repos\MySQLHomework\Student.Model\obj\Debug\Student.Model.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MySQLHomework\Student.Model\obj\Debug\Student.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MySQLHomework\Student.Model\obj\Debug\Student.Model.dll
+C:\Users\DELL\source\repos\MySQLHomework\Student.Model\obj\Debug\Student.Model.pdb
+C:\Users\86186\source\repos\MySQLHomework\Student.Model\bin\Debug\Student.Model.dll
+C:\Users\86186\source\repos\MySQLHomework\Student.Model\bin\Debug\Student.Model.pdb
+C:\Users\86186\source\repos\MySQLHomework\Student.Model\obj\Debug\Student.Model.csprojAssemblyReference.cache
+C:\Users\86186\source\repos\MySQLHomework\Student.Model\obj\Debug\Student.Model.dll
+C:\Users\86186\source\repos\MySQLHomework\Student.Model\obj\Debug\Student.Model.pdb
